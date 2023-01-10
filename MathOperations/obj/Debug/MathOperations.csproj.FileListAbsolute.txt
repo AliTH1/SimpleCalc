@@ -1,0 +1,6 @@
+C:\Users\alita\Desktop\Projects\Practice\C#\Simple Practice\Calculator\MathOperations\bin\Debug\MathOperations.dll
+C:\Users\alita\Desktop\Projects\Practice\C#\Simple Practice\Calculator\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\alita\Desktop\Projects\Practice\C#\Simple Practice\Calculator\MathOperations\obj\Debug\MathOperations.csproj.AssemblyReference.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Simple Practice\Calculator\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Simple Practice\Calculator\MathOperations\obj\Debug\MathOperations.dll
+C:\Users\alita\Desktop\Projects\Practice\C#\Simple Practice\Calculator\MathOperations\obj\Debug\MathOperations.pdb
